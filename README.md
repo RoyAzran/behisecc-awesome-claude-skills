@@ -108,6 +108,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [mcp-ads ads-manager](https://github.com/RoyAzran/mcp-ads/tree/main/plugin/skills/ads-manager) - Report on and safely change Google Ads, Meta, LinkedIn, TikTok, Snapchat and Microsoft Ads plus GA4/Search Console via the mcp-ads MCP server; every write needs approval.
 
 
 ## 🔬 Scientific & Research Tools
